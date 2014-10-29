@@ -17,7 +17,7 @@ Xem file ảnh <a href="https://github.com/nguyenvanvuong/reminder_bot/blob/mast
 - Sửa file crontab:
 <br />
 <code># crontab -e</code>
-- Thêm đoạn mã sau vào là scipt remind sẽ chạy định kỳ 1 tuần 1 lần:
+- Thêm đoạn mã sau vào là scipt remind sẽ chạy định kỳ 1 tuần 1 lần vào thứ 6:
 <br />
 <code>* * * * */5 php /file_path/script.php</code>
 
