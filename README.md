@@ -25,6 +25,4 @@ Xem file ảnh <a href="https://github.com/nguyenvanvuong/reminder_bot/blob/mast
 <br />
 <code>sudo service cron restart</code>
 
-4.Nếu ngại cài đặt môi trường & crontab thì mọi người có thể gửi file PHP sau khi đã chỉnh sửa cho anh Trần Nam Sơn, nhờ anh ý cài trên server của cty cho nhanh.
-
-PS: source code em viết bằng PHP nên trên máy chạy script này phải được cài PHP, ai thích có thể sửa sang ngôn ngữ khác cho phù hợp.
+PS: source code viết bằng PHP nên trên máy chạy script này phải được cài PHP, ai thích có thể sửa sang ngôn ngữ khác cho phù hợp.
