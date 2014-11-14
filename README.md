@@ -2,7 +2,7 @@ Script này đơn giản chỉ là send message vào 1 group.
 
 1.Nên ai dùng thì trc hết hãy request API Key ở trang: 
 - Với User còn là Free: Có thể request trực tiếp tại : https://www.chatwork.com/service/packages/chatwork/subpackages/api/app...
-- Với User đã lên Pro, muốn có API phải request qua bác Hirai, nhờ bác ý điền mail vào trang sau và gửi request: https://www.chatwork.com/service/packages/chatwork/subpackages/api/app...
+- Với User đã lên Pro, muốn có API phải request qua bác Hirai, nhờ bác ý điền mail vào trang sau và gửi request: https://www.chatwork.com/service/packages/chatwork/subpackages/api/apply_beta.php
 - Cần chờ 1 khoảng thời gian nhất định sau khi request thì mới đc cấp API.
 Xem file ảnh <a href="https://github.com/nguyenvanvuong/reminder_bot/blob/master/Chatwork_API_Key.png" title="API">Chatwork_API_Key.png</a>
 
